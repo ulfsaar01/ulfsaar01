@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Greeting from an Frontend and Blockchain Expert</h1>
 
 <h1 align="center"></h1>
-<h1 align="center" style="font-weight: bold">A passionate full stack developer</h1>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=explosivepro.explosivepro" />
+<h1 align="center" style="font-weight: bold">A passionate fullstack developer</h1>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ulfsaar01.ulfsaar01" />
 <h1 align="center"></h1>
 
 - 🔭 I’m currently free now.
@@ -41,9 +41,9 @@
 </p>
 <h1 align="center"></h1>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=explosivepro&show_icons=true&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ulfsaar01&show_icons=true&theme=merko&count_private=true" />
 
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=explosivepro&layout=compact&theme=merko&count_private=true&hide=python" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulfsaar01&layout=compact&theme=merko&count_private=true&hide=python" />
 <img align="center" height="150px"/>
 
 <br/>
@@ -56,25 +56,18 @@ Have the eye of the owner; being able to change position on the owner's position
 
 ✔️ Blockchain(Web3, Solidity, SmartContract, Solana)
 
-✔️ Front-end(React.js, Typescript, React Native, Vue.js, Tailwind CSS, Next.js, Nuxt.js, Angular, Solid.js)
+✔️ Front-end(React.js, Typescript, React Native, Vue.js, Next.js, Nuxt.js, Angular, Solid.js)
 
-✔️ C++
+✔️ C/C++
 
-✔️ Node (Node.js, Express.js, Feathers.js)
+✔️ Node (Node.js, Express.js)
 
-✔️ ASP.NET Core, MVC
+✔️ ASP.NET, MVC
 
 ✔️ Database (MySQL, MongoDB, Firebase, NoSQL)
 
 ✔️ Javascript Libraries(D3.js, anime.js, Chart.js, Three.js, BIDEO.JS)
 
-✔️ PHP, Laravel, CodeIgniter, CakePHP, Drupal
+✔️ PHP, Laravel, CodeIgniter, CakePHP, Drupal, Zend
 
-✔️ Javascript, CSS, HTML, JQuery, Bootstrap)
-
-<div dir="auto">
-<h2 align="center" dir="auto"><a id="user-content---𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--" class="anchor" aria-hidden="true" href="#--𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji></h2>
-<div align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d433a654bfdf6e5571ce144b8e21e4d8a37a696351d23db8a337852a1a882732/68747470733a2f2f7468756d62732e6766796361742e636f6d2f456c6465726c794e69636549736f706f642d73697a655f726573747269637465642e676966"><img width="100%" src="https://camo.githubusercontent.com/d433a654bfdf6e5571ce144b8e21e4d8a37a696351d23db8a337852a1a882732/68747470733a2f2f7468756d62732e6766796361742e636f6d2f456c6465726c794e69636549736f706f642d73697a655f726573747269637465642e676966" data-canonical-src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif" style="max-width: 100%; visibility: visible;" data-xblocker="passed"></a>
-</div>
-</div>
+✔️ Javascript, CSS, HTML, JQuery, Material UI, Bootstrap, Tailwind CSS)
